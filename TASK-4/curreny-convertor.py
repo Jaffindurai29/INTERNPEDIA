@@ -1,7 +1,7 @@
 import requests
 
 # Base URL for the exchange rate API (You can sign up at exchangerate-api.com and get your own API key)
-API_URL = "https://v6.exchangerate-api.com/v6/bf60907f1d1804d4fa590b1b/latest/"
+API_URL = "https://v6.exchangerate-api.com/v6/your-api/latest/"
 
 CURRENCY_CODES = ['USD', 'EUR', 'GBP', 'INR', 'AUD', 'CAD', 'JPY', 'CNY']
 
